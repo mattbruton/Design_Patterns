@@ -4,7 +4,7 @@
 
 This repo is simply a place for me to keep all the work and notes I come up with while diving into design patterns.
 
-1. [Creational Patterns](#CreationalPatterns)
+1. [Creational Patterns](#creational-patterns)
   - Abstract Factory
   - Builder
   - Factory Method
