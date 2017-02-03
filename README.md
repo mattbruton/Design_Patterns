@@ -36,3 +36,7 @@ This repo is simply a place for me to keep all the work and notes I come up with
 ## Creational Patterns
 
 ### Abstract Factory
+
+## Structural Patterns
+
+## Behavioral Patterns
