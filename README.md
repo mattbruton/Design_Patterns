@@ -1,9 +1,11 @@
-# Design_Patterns
+# Design Patterns
 
 ## About
 
 This repo is simply a place for me to keep all the work and notes I come up with while diving into design patterns.
 
+## Contents
+-----
 1. [Creational Patterns](#creational-patterns)
   - Abstract Factory
   - Builder
@@ -30,7 +32,7 @@ This repo is simply a place for me to keep all the work and notes I come up with
   - Strategy
   - Template Method
   - Visitor
-
+-----
 ## Creational Patterns
 
 ### Abstract Factory
