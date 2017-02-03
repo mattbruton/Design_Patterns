@@ -7,12 +7,12 @@ This repo is simply a place for me to keep all the work and notes I come up with
 ## Contents
 
 1. [Creational Patterns](#creational-patterns)
-  - Abstract Factory
+  - [Abstract Factory](#abstract-factory)
   - Builder
   - Factory Method
   - Prototype
   - Singleton
-2. Structural Patterns
+2. [Structural Patterns](#structural-patterns)
   - Adapter
   - Bridge
   - Composite
@@ -20,7 +20,7 @@ This repo is simply a place for me to keep all the work and notes I come up with
   - Facade
   - Flyweight
   - Proxy
-3. Behavioral Patterns
+3. [Behavioral Patterns](#behavioral-patterns)
   - Chain of Responsibility
   - Command
   - Interpreter
