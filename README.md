@@ -2,7 +2,7 @@
 
 ## About
 
-This repo is simply a place for me to keep all the work and notes I come up with while diving into design patterns.
+This repo is simply a place for me to keep all the work and notes I come up with while diving into design patterns. It's a big work in progress and if you happen to catch something that is incorrect, please feel free to contact me so I can make improvements!
 
 ## Contents
 
